@@ -1,0 +1,50 @@
+{
+  "name": "RNStructure",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.6",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "eslint-import-resolver-babel-module": "^5.1.1",
+    "eslint-plugin-react-native": "^3.8.1",
+    "npm-install-peers": "^1.2.1",
+    "react": "^16.9.0",
+    "react-native": "0.61.5",
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-safe-area-context": "^0.6.2",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^2.0.15",
+    "react-navigation-tabs": "^2.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.8.3",
+    "@babel/runtime": "7.8.3",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "24.9.0",
+    "babel-preset-react-native": "^4.0.1",
+    "eslint": "^6.8.0",
+    "eslint-config-jquery": "^2.0.0",
+    "eslint-plugin-flowtype": "^4.6.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-jquery": "^1.5.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.56.4",
+    "prop-types": "^15.7.2",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

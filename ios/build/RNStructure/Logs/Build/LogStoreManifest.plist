@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>04B424B0-D76F-45A8-AE8F-C7845E806C13</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04B424B0-D76F-45A8-AE8F-C7845E806C13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RNStructure project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RNStructure</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RNStructure with scheme RNStructure and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>601152195.019943</real>
+			<key>timeStoppedRecording</key>
+			<real>601152199.08129597</real>
+			<key>title</key>
+			<string>Building workspace RNStructure with scheme RNStructure and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>04B424B0-D76F-45A8-AE8F-C7845E806C13</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
